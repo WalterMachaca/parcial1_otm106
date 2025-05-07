@@ -1,7 +1,7 @@
 # Parcial1_OTM106
-Fecha: 6 de mayo de 2025
-Nombre: Walter Antonio Machaca Anze
-Carrera: Sistemas informáticos
+## Fecha: 6 de mayo de 2025
+## Nombre: Walter Antonio Machaca Anze
+## Carrera: Sistemas informáticos
 
 ## Preguntas
 1.-¿Que es el formato de un documento?
